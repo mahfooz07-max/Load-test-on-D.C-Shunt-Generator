@@ -13,8 +13,8 @@ Sl .no apparatus range type quantity
 
 Load test
 125 % of rated current (full load current)
-
 <img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
+
 Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
 2. Generator side field rheostat should be kept at maximum resistance position.
@@ -35,7 +35,8 @@ by closing the DPST switch 2.
 initial position
 
 Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+<img width="135" height="175" alt="image" src="https://github.com/user-attachments/assets/74439db6-2594-4eb5-8ee9-5e11c13dbada" />
+
 
 Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
